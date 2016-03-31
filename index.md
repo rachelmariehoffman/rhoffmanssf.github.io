@@ -1,4 +1,4 @@
-![Rachel](./media/rachel.png)
+![Rachel](./media/rachel.png){:.avatar}
 
 ## Rachel Hoffman
 I am a graduate of the University of California, Berkeley, class of 2014. I have worked in marketing and communications for the past several years and am currently studying computer engineering at SoftStack Factory.
